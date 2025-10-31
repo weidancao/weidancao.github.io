@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://weidan-bmi.github.io/sitemap.xml
+Sitemap: https://weidancao.github.io/sitemap.xml
