@@ -1,5 +1,5 @@
-Hi! I’m Lemeng Wang, a senior in Computer Science and Engineering with a Business minor at The Ohio State University. I conduct research under Prof. Weidan Cao and Prof. Wei-Lun (Harry) Chao, where my work focuses on human-centered AI and computer vision. I am particularly inspired by the potential of AI for Science and AI for Medicine & Healthcare, areas where intelligent systems can meaningfully support discovery, decision-making, and societal well-being.
- 
+Hi! I'm Lemeng Wang, a senior in Computer Science and Engineering with a Business minor at The Ohio State University. I conduct research under Prof. Weidan Cao and Prof. Wei-Lun (Harry) Chao, where my work focuses on human-centered AI and computer vision. I am particularly inspired by the potential of AI for Science and AI for Medicine & Healthcare, areas where intelligent systems can meaningfully support discovery, decision-making, and societal well-being.
+
 My research interests lie at the intersection of AI, usability, and real-world impact. I am motivated by questions such as, how we can design AI systems that are intuitive, trustworthy, and aligned with human needs and how can advances in computer vision and multimodal learning help solve scientific and healthcare challenges. I strive to build AI that performs well technically while also respecting human context, promoting transparency, and contributing to solutions that genuinely help people.
 
 Check out my [Personal Website](https://lemeng-personal-website.web.app/) for more details.
