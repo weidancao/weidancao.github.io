@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-team",
           title: "team",
           description: "members of the lab or group",
@@ -398,16 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-we-currently-has-openings-for-phd-students-and-postdoctoral-associates-in-human-computer-interaction-and-healthcare-informatics-if-you-are-interested-in-joining-our-team-please-send-me-an-email",
+          title: 'We currently has openings for PhD students and Postdoctoral associates in human-computer interaction...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
