@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We currently has openings for PhD students and Postdoctoral associates in human-computer interaction and healthcare informatics. If you are interested in joining our team, please send me an email.
+We currently have openings for PhD students and Postdoctoral associates in human-computer interaction and healthcare informatics. If you are interested in joining our team, please send me an email.
