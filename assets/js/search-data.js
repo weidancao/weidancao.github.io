@@ -57,8 +57,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-currently-has-openings-for-phd-students-and-postdoctoral-associates-in-human-computer-interaction-and-healthcare-informatics-if-you-are-interested-in-joining-our-team-please-send-me-an-email",
-          title: 'We currently has openings for PhD students and Postdoctoral associates in human-computer interaction...',
+            },},{id: "news-we-currently-have-openings-for-phd-students-and-postdoctoral-associates-in-human-computer-interaction-and-healthcare-informatics-if-you-are-interested-in-joining-our-team-please-send-me-an-email",
+          title: 'We currently have openings for PhD students and Postdoctoral associates in human-computer interaction...',
           description: "",
           section: "News",},{id: "projects-a-human-centered-multimodal-ai-system-for-early-prediction-of-post-gi-surgical-complications",
           title: 'A Human-Centered Multimodal AI System for Early Prediction of Post-GI Surgical Complications',
