@@ -25,4 +25,11 @@ profiles:
     more_info: >
       <p>Undergraduate Research Assistant</p>
       <p>lemeng.wang@osumc.edu</p>
+  - align: right
+    image: emma.jpg
+    content: about_emma.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Research Senior Technician</p>
+      <p>emma.chester@osumc.edu</p>
 ---
