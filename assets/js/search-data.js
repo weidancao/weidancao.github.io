@@ -60,21 +60,26 @@ ninja.data = [{
             },},{id: "news-we-currently-have-openings-for-phd-students-and-postdoctoral-associates-in-human-computer-interaction-and-healthcare-informatics-if-you-are-interested-in-joining-our-team-please-send-me-an-email",
           title: 'We currently have openings for PhD students and Postdoctoral associates in human-computer interaction...',
           description: "",
-          section: "News",},{id: "projects-a-human-centered-multimodal-ai-system-for-early-prediction-of-post-gi-surgical-complications",
-          title: 'A Human-Centered Multimodal AI System for Early Prediction of Post-GI Surgical Complications',
+          section: "News",},{id: "projects-improving-early-prediction-and-decision-making-for-sepsis-with-human-ai-collaboration",
+          title: 'Improving Early Prediction and Decision-Making for Sepsis with Human-AI Collaboration',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-integrating-clinical-calculators-into-early-sepsis-prediction-via-dynamic-temporal-graph-construction",
-          title: 'Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction',
+            },},{id: "projects-treatment-related-cardiotoxicity-risk-prediction-for-breast-cancer-patients-with-a-multimodal-ai-based-system",
+          title: 'Treatment-Related Cardiotoxicity Risk Prediction for Breast Cancer Patients with a Multimodal AI-based System...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-a-multimodal-ai-based-system-to-support-symptom-monitoring-and-risk-prediction-of-cancer-treatment-induced-cardiotoxicity",
-          title: 'A Multimodal AI-based System to Support Symptom Monitoring and Risk Prediction of Cancer...',
+            },},{id: "projects-exploring-collaboration-breakdowns-between-provider-teams-and-patients-in-post-surgery-care",
+          title: 'Exploring Collaboration Breakdowns Between Provider Teams and Patients in Post-Surgery Care',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-patient-journey-map-of-treatment-related-cardiotoxicity-prevention-in-breast-cancer-patients-in-active-treatment",
+          title: 'Patient Journey Map of Treatment-Related Cardiotoxicity Prevention in Breast Cancer Patients in Active...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
