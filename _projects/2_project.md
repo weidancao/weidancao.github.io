@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction
+title: Treatment-Related Cardiotoxicity Risk Prediction for Breast Cancer Patients with a Multimodal AI-based System
 description:
-img: assets/img/proj-2-sepsis-calc.jpg
+img: assets/img/proj-2.jpg
 importance: 2
 category: work
 related_publications: false

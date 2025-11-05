@@ -1,8 +1,8 @@
 ---
 layout: page
-title: A Human-Centered Multimodal AI System for Early Prediction of Post-GI Surgical Complications
+title: Improving Early Prediction and Decision-Making for Sepsis with Human-AI Collaboration
 description:
-img: assets/img/proj-1-post-surgical.png
+img: assets/img/proj-1.png
 importance: 1
 category: work
 related_publications: false
