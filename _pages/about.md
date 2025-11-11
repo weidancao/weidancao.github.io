@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, <a href='https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/weidan-cao'>Department of Biomedical Informatics</a>, The Ohio State University College of Medicine
 
