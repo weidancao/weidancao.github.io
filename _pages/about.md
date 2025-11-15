@@ -29,9 +29,9 @@ latest_posts:
 
 ## Background
 
-Dr. Weidan Cao is an Assistant Professor in the Department of Biomedical Informatics at The Ohio State University College of Medicine. She leads [The Ohio State University Human-Centered AI (OSU HAI) Lab](https://caolab.org/people/). Dr. Cao's research focuses on AI-empowered remote patient monitoring, AI-enabled clinical decision support system development and evaluation, mHealth apps/intervention engagement, the intended effects and unintended effects of mHealth apps/interventions, the usability and usefulness of mHealth apps for chronic disease management (e.g., cardiovascular diseases, cancer), patient engagement, doctor-patient communication, and cultural factors in health interventions.
+Dr. Weidan Cao is an Assistant Professor in the Department of Biomedical Informatics at The Ohio State University College of Medicine. She leads [The Ohio State University Human-Centered Artificial Intelligence (OSU HAI) Lab](https://caolab.org/people/). Dr. Cao's research focuses on AI-empowered remote patient monitoring, AI-enabled clinical decision support system development and evaluation, mHealth apps/intervention engagement, the intended effects and unintended effects of mHealth apps/interventions, the usability and usefulness of mHealth apps for chronic disease management (e.g., cardiovascular diseases, cancer), patient engagement, doctor-patient communication, and cultural factors in health interventions.
 
 ## Education and Training
 
 - **Postdoctoral Fellow**, Biomedical Informatics, The Ohio State University, 2022
-- **PhD**, Communication, Temple University, 2017
+- **PhD**, Health Communication, Temple University, 2017

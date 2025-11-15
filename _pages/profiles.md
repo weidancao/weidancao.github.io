@@ -2,6 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Human-Centered Artificial Intelligence (HAI) Lab
+nav_title: HAI Lab
 description: Members of the HAI lab
 nav: true
 nav_order: 4
