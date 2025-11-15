@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Team
-description: members of the lab or group
+title: Human-Centered Artificial Intelligence (HAI) Lab
+description: Members of the HAI lab
 nav: true
 nav_order: 4
 
@@ -26,7 +26,6 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Pengqi Wang, PhD Student</p>
-      # <p>1810 Cannon Dr, Columbus, OH 43210</p>
       <p>wang.19883@osu.edu</p>
       <p>pengqi.wang@osumc.edu</p>
   - section_title: Research Associates
