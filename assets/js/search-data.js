@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-team",
-          title: "Team",
-          description: "members of the lab or group",
+        },{id: "nav-human-centered-artificial-intelligence-hai-lab",
+          title: "Human-Centered Artificial Intelligence (HAI) Lab",
+          description: "Members of the HAI lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
