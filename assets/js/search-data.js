@@ -58,6 +58,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-exploring-design-opportunities-of-ai-based-multi-modal-remote-monitoring-technologies-for-early-detection-of-mental-health-sequelae-in-youth-concussion-patients",
+          title: 'Exploring Design Opportunities of AI-Based Multi-modal Remote Monitoring Technologies for Early Detection of...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
