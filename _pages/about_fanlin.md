@@ -1,0 +1,4 @@
+Hi there! I am Fan Lin, a PhD student in Computer Science and Engineering at OSU, advised by Prof. Ping Zhang and Prof. Weidan Cao. I received my MPhil degree from The Hong Kong University of Science and Technology (Guangzhou) and my Bachelor’s degree in Architecture from South China University of Technology. My research interests center on Human-Computer Interaction (HCI) and Human-AI Collaboration, with a particular focus on designing intelligent assistive technologies for older adults.
+
+I aim to investigate how the integration of AI agents and immersive technologies, such as VR, can support health needs like chronic disease management and rehabilitation. By developing user-centered systems and exploring trust mechanisms in AI, my work seeks to create accessible and empathetic healthcare solutions, ultimately improving the quality of life for aging populations.
+

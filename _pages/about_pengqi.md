@@ -1,5 +1,0 @@
-Hi there! I am Pengqi (Eric) Wang, a PhD student in Computer Science and Engineering at OSU, advised by Prof. Ping Zhang and Prof. Weidan Cao. I received my MPhil degree from HKUST, and my BBA degree from HKBU. My research interests center on Human-Computer Interaction (HCI), with a particular focus on the design and evaluation of AI in Medicine and Healthcare.
-
-I aim to investigate how AI technologies can support healthcare providers and patients in decision-making, remote monitoring, and clinical collaboration. By developing interactive systems and conducting empirical studies, my work seeks to enhance trust, transparency, and usability of AI in healthcare contexts, ultimately fostering safer, more effective, and human-centered medical practices.
-
-Feel free to explore my [Personal Website](https://pengqiwang.com/) for more details.
