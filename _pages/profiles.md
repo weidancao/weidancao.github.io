@@ -22,13 +22,12 @@ profiles:
       <p>weidan.cao@osumc.edu</p>
   - section_title: PhD Students
   - align: left
-    image: pengqi.jpg
-    content: about_pengqi.md
+    image: fanlin.jpg
+    content: about_fanlin.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Pengqi Wang, PhD Student</p>
-      <p>wang.19883@osu.edu</p>
-      <p>pengqi.wang@osumc.edu</p>
+      <p>Fan Lin, PhD Student</p>
+      <p>lin.5461@osu.edu</p>
   - section_title: Research Associates
   - align: right
     image: lemeng.jpg
