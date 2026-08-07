@@ -22,7 +22,7 @@ profiles:
       <p>weidan.cao@osumc.edu</p>
   - section_title: PhD Students
   - align: left
-    image: fanlin.jpg
+    image: fanlin.png
     content: about_fanlin.md
     image_circular: true # crops the image to make it circular
     more_info: >
